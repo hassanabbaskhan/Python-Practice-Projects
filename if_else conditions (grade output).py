@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 #calculating avegard and output the grade
 #multiple if not allowed, instead use if elif elif elif and then else > print("Enter your marks")
 
@@ -23,10 +17,3 @@ elif avg >=0 and avg<=60:
     print("Work Hard")
 else:
     print("Invalid entry")
-
-
-# In[ ]:
-
-
-
-
