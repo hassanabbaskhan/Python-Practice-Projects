@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 #if no of expenses are not known, 
 #start with sum as zero
 
@@ -16,10 +10,3 @@ while True:
         break
     else:
         print(sum)
-
-
-# In[ ]:
-
-
-
-
