@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[7]:
-
 
 #Develop a BMI calculator to monitor health.
 #use persons height and weigth and output the BMI score.
@@ -23,4 +18,3 @@ elif BMI >=25 and BMI <30:
     print("You are overweight \n")
 else:
     print("Obesity")
-
