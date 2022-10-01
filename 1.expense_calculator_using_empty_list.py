@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
-
-
 # the code calculates the sum of numbers in list.
 # this code helps you in calculating the total of x no of expenses
 #starting with empty list and initially with total as zero.
@@ -20,16 +14,3 @@ while True:
         break
     else:
       print("the sum of all expenses will be",total)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
