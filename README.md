@@ -1,0 +1,3 @@
+# Python-Practice-Projects
+This is for python Practice Projects
+what i am practicing as an expercise to remember the code, will be posting here...
