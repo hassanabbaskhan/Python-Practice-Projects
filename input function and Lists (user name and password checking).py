@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[26]:
-
-
 #make a form and ask the user to put username and password correctly so that the next procedure may be followed ahead.
 #taking user inputs of username and password
 
@@ -18,16 +12,3 @@ elif username==data[0] and password !=data[1]:
     print("Forget password?")
 else:
     print("username and password are incorrect")
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
