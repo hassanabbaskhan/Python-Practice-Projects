@@ -1,4 +1,3 @@
-
 #simplifying the code
 def add(x,y):
     add=x+y # define the mathematics of variables
