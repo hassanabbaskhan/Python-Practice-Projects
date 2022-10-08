@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 #simplifying the code
 def add(x,y):
@@ -43,10 +38,4 @@ while True:
 
 else:
     print("invalid")
-
-
-# In[ ]:
-
-
-
 
