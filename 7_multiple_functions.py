@@ -1,21 +1,17 @@
 #simplifying the code
 def add(x,y):
     add=x+y # define the mathematics of variables
-  #print(add) #print in place of return
     return add
 def sub(x,y):
     sub=x-y
-  #print(sub)
     return sub
 
 def multi(x,y):
     multi=x*y
- # print(multi)
     return multi
 
 def div(x,y):
     div=x/y  
-  #print(div)
     return div
 
 while True:
