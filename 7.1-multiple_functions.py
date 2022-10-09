@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[7]:
-
-
 #simplifying the code
 #define 4 set of funstions
 
@@ -43,10 +37,3 @@ while True:
 
 else:
     print("invalid")
-
-
-# In[ ]:
-
-
-
-
