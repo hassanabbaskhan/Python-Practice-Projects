@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
 
 
 """
@@ -29,10 +25,3 @@ if not prime:                 # if conditions is met above, like i tried to desc
     print(num, "is not Prime number") 
 else:
     print(num,"is a Prime number")
-
-
-# In[ ]:
-
-
-
-
