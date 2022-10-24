@@ -43,11 +43,11 @@ else:
                                     print("Num 2 is greater ")
                                     print("Both numbers have different signs")
                                 else:
-                                    if num1 > num2 and num1 < 0 and num2 < 0:
-                                        print("Num 1 is greater ")
+                                    if num1 - num2 <=1 and num1 - num2 >=0 and num1 <0 and num2 <0:           
+                                        print("Both numbers are almost equal.")
                                         print("Both numbers are negetive")
                                     else:
-                                        if num1 - num2 <=1 and num1 - num2 >=0 and num1 <0 and num2 <0:
+                                        if num1 > num2 and num1 < 0 and num2 < 0:
                                             print("Both numbers are almost equal.")
                                             print("Both numbers are negetive !")
                                         else:
